@@ -23,3 +23,35 @@ For multiple lines
 def foo():
   return 5
 ```
+
+That was a demo of code fencing
+
+---
+
+* List item
+* Another list item
+   * sub item
+     * yes?
+* last item
+
+1. item 1
+2. item 2
+   1. sublist
+30. item c
+
+[Setting up SSH Keys](https://neloe.github.io/course-info/operating-systems/github-ssh.html)
+
+[Other setup](setup.md)
+
+Let's go to <https://www.ebay.com>
+
+![My crappy default profile avatar](https://avatars.githubusercontent.com/u/278757?s=72&v=4)
+
+````markdown
+```python
+def foo():
+  return 5
+```
+````
+
+~~Opps, didn’t mean to do this.~~
